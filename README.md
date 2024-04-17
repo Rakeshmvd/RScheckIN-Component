@@ -9,9 +9,15 @@ Joomla https://www.joomla.org
 RSevents https://www.rsjoomla.com/joomla-extensions/joomla-events.html
 RSform https://www.rsjoomla.com/joomla-extensions/joomla-form.html
 
+INSTALL
+- Like any Joomla component
+- Create menu item to RScheckIN in backend
+- Login in frontend with Admin/Event owner
+  
 
-STEPS
-To get all the functions of RScheckIN tool.
+
+STEPS 
+To get all the functions of the RScheckIN component.
 
 
 Ticket note (frontend)
