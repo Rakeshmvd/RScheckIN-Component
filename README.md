@@ -39,4 +39,3 @@ Extra RSform fields to display (with mobile in landscape mode)
 
 Use other ticketform then default settings (optional)
 9. If you wish to use a different ticketform when adding subscribers in frontend, you can select this form in RScheckIN settings.
-
